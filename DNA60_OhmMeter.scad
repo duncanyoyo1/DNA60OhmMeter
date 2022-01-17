@@ -148,7 +148,7 @@ module both() {
 module standoff (){
   rotate([90,0,0])
   difference () {
-  cylinder(r=1.15,h=2.4,center=true);
+  cylinder(r=1.25,h=2.4,center=true);
   cylinder(r=0.625,h=3,center=true);
   }
 }
@@ -168,7 +168,7 @@ module DNA60_Screen (){
  }
 }
 
-module mUSB(){
+ module mUSB(){ 
   //usb.org CabConn20.pdf
   
   M= 6.9;   //Rece inside width
@@ -281,7 +281,7 @@ module mUSB(){
               flap(flpDimSide);
     }
   }
-  
+
   module plastic(){
     difference(){
       cube([C,W,X],true);
@@ -567,10 +567,10 @@ difference(){
   mUSB();
   translate([-45,-17,29.75])
   C510();
-  translate([-24.25,-60.5,14.3])
+  translate([-24.25,-60.555,14.3])
   rotate([90,0,0])
   cylinder(r=0.625,h=1.5,center=true);
-  translate([-9.75,-60.5,14.3])
+  translate([-9.75,-60.555,14.3])
   rotate([90,0,0])
   cylinder(r=0.625,h=1.5,center=true);
 }
