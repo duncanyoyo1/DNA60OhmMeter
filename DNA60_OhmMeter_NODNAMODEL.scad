@@ -470,7 +470,7 @@ module DNA60_Screen_Hole(){
 
 module C510() {
     union(){
-        cylinder(d=22,h=0.9, center=true);
+        cylinder(d=22.05,h=0.9, center=true);
         translate([0,0,-6.05])
         cylinder(d=10.25,h=13, center=true);
         translate([0,0,-4])
@@ -524,8 +524,8 @@ module Up_Down_Button(){
 module Fire_Button(){
     union(){
         difference(){
-            cylinder(d=10,h=6);
-            up(5.5) fillet_cylinder_mask(r=5, fillet=2.5);
+            cylinder(d=10.75,h=6);
+            up(5.5) fillet_cylinder_mask(r=5.375, fillet=2.5);
         }
         cylinder(d=12,h=1.5);
     }
