@@ -444,7 +444,7 @@ module standoff_mount (){
   rotate([90,0,0])
   difference () {
   cylinder(r=2.5,h=4.75,center=true);
-  cylinder(r=0.625,h=5,center=true);
+  cylinder(r=0.65,h=5,center=true);
   }
 }
 

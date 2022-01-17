@@ -7,7 +7,7 @@ $fs = 0.1; // ----------------------------------
 fudge=0.1; // Don't change this value
 
 // Which one would you like to see?
-part = "box"; // [box:Box only, top: Top cover only, both: Box and top cover]
+part = "top"; // [box:Box only, top: Top cover only, both: Box and top cover]
 
 // Size of your printer's nozzle in mm
 nozzle_size = 0.4;
@@ -532,10 +532,10 @@ module Fire_Button(){
 }
 
 //#print_part();
-
+/*
 /*translate([15,-40,18])
 rotate([0,0,-90])
-DNA60();*/
+DNA60();/
 translate([30,-48.25,29])
 rotate([90,0,90])
 DNA60_Mount();
@@ -544,7 +544,7 @@ rotate([0,180,0])
 DNA60_Screen();
 /*translate([-17,-58,27])
 rotate([-90,0,0])
-mUSB();*/
+mUSB();/
 translate([-17,-60.75,14.3])
 rotate([0,180,0])
 mUSB_Standoff();
@@ -580,10 +580,10 @@ difference(){
 translate([43.25,-48.25,26.5])
 Fire_Button();
 translate ([20.6,-48.4,26])
-Up_Down_Button();*/
+Up_Down_Button();/
 //translate([-47,-15,29])
 //C510();
-
+*/
 module DNA60 () {
                   render(){
  polyhedron(
