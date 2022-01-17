@@ -524,14 +524,15 @@ module Up_Down_Button(){
 module Fire_Button(){
     union(){
         difference(){
-            cylinder(d=10,h=6);
-            up(5.5) fillet_cylinder_mask(r=5, fillet=2.5);
+            cylinder(d=10.75,h=6);
+            up(5.5) fillet_cylinder_mask(r=5.375, fillet=2.5);
         }
         cylinder(d=12,h=1.5);
     }
 }
 
 //#print_part();
+Fire_Button();
 /*
 /*translate([15,-40,18])
 rotate([0,0,-90])
