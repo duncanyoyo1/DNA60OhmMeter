@@ -163,7 +163,7 @@ module DNA60_Screen (){
         cube([14,4,32], center=true);
         translate([-2,-1,0.5])
         rotate([90,0,90])
-        cube([11.6,10,33], center=true);      
+        cube([11.65,10,33], center=true);      
   }
  }
 }
@@ -444,7 +444,7 @@ module standoff_mount (){
   rotate([90,0,0])
   difference () {
   cylinder(r=2.5,h=4.75,center=true);
-  cylinder(r=0.65,h=5,center=true);
+  cylinder(r=0.75,h=5,center=true);
   }
 }
 
@@ -541,7 +541,7 @@ translate([31.4,-48.25,29])
 rotate([90,0,90])
 DNA60_Mount();
 translate([34.35,-48.25,24.32])
-cube([28.5,15,1.4], center=true);
+cube([28.5,15.25,1.4], center=true);
 }
 translate([-10,-47,30])
 rotate([0,180,0])
