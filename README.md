@@ -15,14 +15,18 @@ Currently you only need to print 3 files.
 
 You will find these files in the [Completed Files](Completed_Files) directory.
 
-#### Parts list:
-1.  [Evolv DNA60 Large Screen ( With USB Charge Board )](https://www.evolvapor.com/products/dna60)
-2.  [Keystone Part #1017-1 ( Positive Battery Contact )](https://www.keyelco.com/product.cfm/product_id/4043/)
-3.  [Keystone Part #5223 ( Negative Battery Contact )](https://www.keyelco.com/product.cfm/product_id/910/)
-4.  [Red 16awg Silicone Wire](https://hobbyking.com/en_us/turnigy-high-quality-16awg-silicone-wire-1m-red.html)
-5.  [Black 16awg Silicone Wire](https://hobbyking.com/en_us/turnigy-high-quality-16awg-silicone-wire-1m-black.html)
-6.  [Red 24awg Silicone Wire](https://hobbyking.com/en_us/turnigy-high-quality-24awg-silicone-wire-1m-red.html)
-7.  [Black 24awg Silicone Wire](https://hobbyking.com/en_us/turnigy-high-quality-24awg-silicone-wire-1m-black.html)
+## Parts list:
+| Part  | Link |
+| ------------- | ------------- |
+| Evolv DNA60 Large Screen ( With USB Charge Board )  | [Evolv DNA60 Large Screen ( With USB Charge Board )](https://www.evolvapor.com/products/dna60)  |
+| Keystone Part #1017-1 ( Positive Battery Contact )  | [Keystone Part #1017-1 ( Positive Battery Contact )](https://www.keyelco.com/product.cfm/product_id/4043/)  |
+| Keystone Part #5223 ( Negative Battery Contact )    | [Keystone Part #5223 ( Negative Battery Contact )](https://www.keyelco.com/product.cfm/product_id/910/)  |
+| Red 16awg Silicone Wire                             | [Red 16awg Silicone Wire](https://hobbyking.com/en_us/turnigy-high-quality-16awg-silicone-wire-1m-red.html)  |
+| Black 16awg Silicone Wire                           | [Black 16awg Silicone Wire](https://hobbyking.com/en_us/turnigy-high-quality-16awg-silicone-wire-1m-black.html)  |
+| Red 24awg Silicone Wire                             | [Red 24awg Silicone Wire](https://hobbyking.com/en_us/turnigy-high-quality-24awg-silicone-wire-1m-red.html)  |
+| Black 24awg Silicone Wire                           | [Black 24awg Silicone Wire](https://hobbyking.com/en_us/turnigy-high-quality-24awg-silicone-wire-1m-black.html)  |
+| Red 30awg Silicone Wire                             | [Red 30awg Silicone Wire](https://hobbyking.com/en_us/turnigy-high-quality-30awg-silicone-wire-5m-red.html)  |
+| Black 30awg Silicone Wire                           | [Black 30awg Silicone Wire](https://hobbyking.com/en_us/turnigy-high-quality-30awg-silicone-wire-5m-black.html)  |
 
 ![OhmMeter1](img/image1.png)
 ![OhmMeter2](img/image2.png)
