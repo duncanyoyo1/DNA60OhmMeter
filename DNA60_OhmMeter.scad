@@ -7,7 +7,7 @@ $fs = 0.1; // ----------------------------------
 fudge=0.1; // Don't change this value
 
 // Which one would you like to see?
-part = "top"; // [box:Box only, top: Top cover only, both: Box and top cover]
+part = "box"; // [box:Box only, top: Top cover only, both: Box and top cover]
 
 // Size of your printer's nozzle in mm
 nozzle_size = 0.4;
@@ -155,15 +155,15 @@ module standoff (){
 
 module DNA60_Screen (){
         union(){
-        translate([12,-1,5])
+        translate([12,-1,5.5])
         cube([8,14,1], center=true);
         difference(){
         translate([0,-1,3])
         rotate([90,0,90])
-        cube([14,3,32], center=true);
-        translate([-2,-1,0])
+        cube([14,4,32], center=true);
+        translate([-2,-1,0.5])
         rotate([90,0,90])
-        cube([11.6,10,33], center=true);      
+        cube([11.65,10,33], center=true);      
   }
  }
 }
@@ -319,7 +319,7 @@ module DNA60_Screen (){
   module pcb(){
       difference(){
       translate([0,6.25,-0.75])
-      cube([16.8,15.5,1.6], center=true);
+      cube([16.85,15.5,1.65], center=true);
       translate([-7.25,12.75,-0.75])
       cylinder(r=1, h=1.8, center=true);
       translate([7.25,12.75,-0.75])
@@ -444,7 +444,7 @@ module standoff_mount (){
   rotate([90,0,0])
   difference () {
   cylinder(r=2.5,h=4.75,center=true);
-  cylinder(r=0.625,h=5,center=true);
+  cylinder(r=0.75,h=5,center=true);
   }
 }
 
@@ -470,9 +470,9 @@ module DNA60_Screen_Hole(){
 
 module C510() {
     union(){
-        cylinder(d=22,h=0.9, center=true);
+        cylinder(d=22.05,h=0.9, center=true);
         translate([0,0,-6.05])
-        cylinder(d=10,h=13, center=true);
+        cylinder(d=10.25,h=13, center=true);
         translate([0,0,-4])
         HexNut510();
       }
@@ -532,20 +532,23 @@ module Fire_Button(){
 }
 
 //#print_part();
-Fire_Button();
-/*
+
 /*translate([15,-40,18])
 rotate([0,0,-90])
-DNA60();/
-translate([30,-48.25,29])
+DNA60();*/
+difference(){
+translate([31.4,-48.25,29])
 rotate([90,0,90])
 DNA60_Mount();
+translate([34.35,-48.25,24.32])
+cube([28.5,15.25,1.4], center=true);
+}
 translate([-10,-47,30])
 rotate([0,180,0])
 DNA60_Screen();
 /*translate([-17,-58,27])
 rotate([-90,0,0])
-mUSB();/
+mUSB();*/
 translate([-17,-60.75,14.3])
 rotate([0,180,0])
 mUSB_Standoff();
@@ -581,10 +584,10 @@ difference(){
 translate([43.25,-48.25,26.5])
 Fire_Button();
 translate ([20.6,-48.4,26])
-Up_Down_Button();/
+Up_Down_Button();*/
 //translate([-47,-15,29])
 //C510();
-*/
+
 module DNA60 () {
                   render(){
  polyhedron(

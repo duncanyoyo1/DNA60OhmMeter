@@ -3,6 +3,8 @@
 
 This repository will contain the OpenSCAD files as well as STL/AMF exports of the parts needed to actually print the mod yourself.
 
+There are currently 2 OpenSCAD files for the model. One with the DNA60 model and one without. The DNA60 model is large and has many complex polyhedrons which greatly increase compile and render time. I recommend using the file without the DNA60 model. It was only used to aid in the alignment of the model.
+
 My focus was on keeping the number of parts down while keeping the outside of the mod as clean as possible.
 
 Currently you only need to print 3 files.
