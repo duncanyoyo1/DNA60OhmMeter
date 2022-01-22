@@ -8,7 +8,7 @@ It was designed to be easy to assemble and to be able to be printed without much
 
 That said you will likely need to support the 510 recess, and possibly the part that holds in the screen, depending on how well your printer can bridge.
 
-There are currently 2 OpenSCAD files for the model. One with the DNA60 model and one without. The DNA60 model is large and has many complex polyhedrons which greatly increase compile and render time. I recommend using the file without the DNA60 model. It was only used to aid in the alignment of the model.
+There are currently 2 OpenSCAD files for the model. One with the DNA60 model and one without. The DNA60 model is large and has many complex polyhedrons which greatly increase compile and render time. I recommend using the file without the DNA60 model. The one with the DNA model was only used to aid in the alignment of the model.
 
 My focus was on keeping the number of parts down while keeping the outside of the mod as clean as possible.
 
