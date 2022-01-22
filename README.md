@@ -1,5 +1,5 @@
 # Ohm Meter
-### A 3D Printed Ohm Meter for the DNA60 Chipset from Evolv
+# A 3D Printed Ohm Meter for the DNA60 Chipset from [Evolv](https://evolvapor.com)
 This repository will contain the OpenSCAD files as well as STL/AMF exports of the parts needed to actually print the mod yourself.
 
 The ohm meter will fit a 30mm atomizer without overhang. 
@@ -38,7 +38,6 @@ You will find these files in the [Completed Files](Completed_Files) directory.
 ![OhmMeter1](img/image1.png)
 ![OhmMeter2](img/image2.png)
 
-# A 3D Printed Ohm Meter for the DNA60 Chipset from [Evolv](https://evolvapor.com)
 [![License](https://img.shields.io/github/license/duncanyoyo1/DNA60OhmMeter?logo=BSD-2-Clause&style=plastic)](https://opensource.org/licenses/BSD-2-Clause)
 [![Languages](https://img.shields.io/github/languages/top/duncanyoyo1/DNA60OhmMeter?style=plastic)](https://github.com/duncanyoyo1/DNA60OhmMeter)
 [![Last Commit](https://img.shields.io/github/last-commit/duncanyoyo1/DNA60OhmMeter?style=plastic)](https://github.com/duncanyoyo1/DNA60OhmMeter/commits/master)
