@@ -21,7 +21,7 @@ Currently you only need to print 3 files.
 You will find these files in the [Completed Files](Completed_Files) directory.
 
 ## Parts list:
-| Part  | Link |
+| Part  | Source |
 | ------------- | ------------- |
 | Evolv DNA60 Large Screen ( With USB Charge Board )  | [Evolv DNA60 Large Screen ( With USB Charge Board )](https://www.evolvapor.com/products/dna60)  |
 | Source V3 M10 510 Connector ( 22mm Plain or VFlat ) | [Source V3 M10 510 Connector](https://www.stealthvape.co.uk/product/source-v3-m10-510-connector/) |
