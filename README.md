@@ -32,6 +32,7 @@ You will find these files in the [Completed Files](Completed_Files) directory.
 ![OhmMeter2](img/image2.png)
 
 # A 3D Printed Ohm Meter for the DNA60 Chipset from [Evolv](https://evolvapor.com)
+[![License](https://img.shields.io/github/license/duncanyoyo1/DNA60OhmMeter?logo=BSD-2-Clause&style=plastic)](https://opensource.org/licenses/BSD-2-Clause)
 [![Languages](https://img.shields.io/github/languages/top/duncanyoyo1/DNA60OhmMeter?style=plastic)](https://github.com/duncanyoyo1/DNA60OhmMeter)
 [![Last Commit](https://img.shields.io/github/last-commit/duncanyoyo1/DNA60OhmMeter?style=plastic)](https://github.com/duncanyoyo1/DNA60OhmMeter/commits/master)
 [![Code Size](https://img.shields.io/github/languages/code-size/duncanyoyo1/DNA60OhmMeter?style=plastic)](https://github.com/duncanyoyo1/DNA60OhmMeter)
