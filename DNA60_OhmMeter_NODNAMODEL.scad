@@ -443,8 +443,8 @@ module battery_21700(){
 module standoff_mount (){
   rotate([90,0,0])
   difference () {
-  cylinder(r=2.5,h=4.75,center=true);
-  cylinder(r=0.75,h=5,center=true);
+  cylinder(r=2.5,h=5,center=true);
+  cylinder(r=0.75,h=5.05,center=true);
   }
 }
 
@@ -537,11 +537,11 @@ module Fire_Button(){
 rotate([0,0,-90])
 DNA60();*/
 difference(){
-translate([31.4,-48.25,29])
+translate([31.4,-48.25,28.875])
 rotate([90,0,90])
 DNA60_Mount();
-translate([34.35,-48.25,24.32])
-cube([28.5,15.25,1.4], center=true);
+translate([34.35,-48.25,24])
+cube([28.5,15.5,1.75], center=true);
 }
 translate([-10,-47,30])
 rotate([0,180,0])
