@@ -1,6 +1,10 @@
 # Ohm Meter
 ### A 3D Printed Ohm Meter for the DNA60 Chipset from Evolv
 
+This ohm meter will fit a 30mm atomizer without overhang. 
+
+It was designed to be easy to assemble and to be able to be printed without much support material.
+
 This repository will contain the OpenSCAD files as well as STL/AMF exports of the parts needed to actually print the mod yourself.
 
 There are currently 2 OpenSCAD files for the model. One with the DNA60 model and one without. The DNA60 model is large and has many complex polyhedrons which greatly increase compile and render time. I recommend using the file without the DNA60 model. It was only used to aid in the alignment of the model.
@@ -19,6 +23,7 @@ You will find these files in the [Completed Files](Completed_Files) directory.
 | Part  | Link |
 | ------------- | ------------- |
 | Evolv DNA60 Large Screen ( With USB Charge Board )  | [Evolv DNA60 Large Screen ( With USB Charge Board )](https://www.evolvapor.com/products/dna60)  |
+| Source V3 M10 510 Connector                         | [Source V3 M10 510 Connector](https://www.stealthvape.co.uk/product/source-v3-m10-510-connector/) |
 | Keystone Part #1017-1 ( Positive Battery Contact )  | [Keystone Part #1017-1 ( Positive Battery Contact )](https://www.keyelco.com/product.cfm/product_id/4043/)  |
 | Keystone Part #5223 ( Negative Battery Contact )    | [Keystone Part #5223 ( Negative Battery Contact )](https://www.keyelco.com/product.cfm/product_id/910/)  |
 | Red 16awg Silicone Wire                             | [Red 16awg Silicone Wire](https://hobbyking.com/en_us/turnigy-high-quality-16awg-silicone-wire-1m-red.html)  |
