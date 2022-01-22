@@ -1,4 +1,3 @@
-# Ohm Meter
 # A 3D Printed Ohm Meter for the DNA60 Chipset from [Evolv](https://evolvapor.com)
 This repository will contain the OpenSCAD files as well as STL/AMF exports of the parts needed to actually print the mod yourself.
 
