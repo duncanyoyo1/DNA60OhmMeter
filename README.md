@@ -23,7 +23,7 @@ You will find these files in the [Completed Files](Completed_Files) directory.
 | Part  | Link |
 | ------------- | ------------- |
 | Evolv DNA60 Large Screen ( With USB Charge Board )  | [Evolv DNA60 Large Screen ( With USB Charge Board )](https://www.evolvapor.com/products/dna60)  |
-| Source V3 M10 510 Connector                         | [Source V3 M10 510 Connector](https://www.stealthvape.co.uk/product/source-v3-m10-510-connector/) |
+| Source V3 M10 510 Connector ( 22mm Plain or VFlat ) | [Source V3 M10 510 Connector](https://www.stealthvape.co.uk/product/source-v3-m10-510-connector/) |
 | Keystone Part #1017-1 ( Positive Battery Contact )  | [Keystone Part #1017-1 ( Positive Battery Contact )](https://www.keyelco.com/product.cfm/product_id/4043/)  |
 | Keystone Part #5223 ( Negative Battery Contact )    | [Keystone Part #5223 ( Negative Battery Contact )](https://www.keyelco.com/product.cfm/product_id/910/)  |
 | Red 16awg Silicone Wire                             | [Red 16awg Silicone Wire](https://hobbyking.com/en_us/turnigy-high-quality-16awg-silicone-wire-1m-red.html)  |
