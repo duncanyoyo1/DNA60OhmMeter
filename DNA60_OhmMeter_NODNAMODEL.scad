@@ -580,10 +580,10 @@ difference(){
 }
 /*translate([-45,-17,32.75])
 #cylinder(d=30,h=10, center=true, $fa=0.1, $fs=0.1);*/
-/*
+
 translate([43.25,-48.25,26.5])
 Fire_Button();
 translate ([20.6,-48.4,26])
-Up_Down_Button();*/
+Up_Down_Button();
 //translate([-47,-15,29])
 //C510();
