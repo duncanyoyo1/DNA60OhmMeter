@@ -4,6 +4,7 @@
 This ohm meter will fit a 30mm atomizer without overhang. 
 
 It was designed to be easy to assemble and to be able to be printed without much support material.
+That said you will likely need to support the 510 recess, and possibly the part that holds in the screen, depending on how well your printer can bridge.
 
 This repository will contain the OpenSCAD files as well as STL/AMF exports of the parts needed to actually print the mod yourself.
 
