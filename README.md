@@ -17,6 +17,8 @@ Change the last value, 29.75. Decreasing it will make the 510 recess larger, inc
 
 Then you will need to save/render the file, and export it to STL/AMF/Whatever you want.
 
+You will need [BOSL](https://github.com/revarbat/BOSL/releases) to be able to render and export the file in OpenSCAD.
+
 There are currently 2 OpenSCAD files for the model. One with the DNA60 model and one without. The DNA60 model is large and has many complex polyhedrons which greatly increase compile and render time. I recommend using the file without the DNA60 model. The one with the DNA model was only used to aid in the alignment of the model.
 
 My focus was on keeping the number of parts down while keeping the outside of the mod as clean as possible.
