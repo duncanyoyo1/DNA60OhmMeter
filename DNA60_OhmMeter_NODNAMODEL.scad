@@ -1,6 +1,7 @@
 include <BOSL/constants.scad>
 use <BOSL/masks.scad>
 use <BOSL/transforms.scad>
+use <BOSL/metric_screws.scad>
 
 $fa = 0.1; // Set these to 1 for faster preview.
 $fs = 0.1; // ----------------------------------
@@ -444,7 +445,7 @@ module standoff_mount (){
   rotate([90,0,0])
   difference () {
   cylinder(r=2.5,h=5,center=true);
-  cylinder(r=0.75,h=5.05,center=true);
+  cylinder(r=0.625,h=5.05,center=true);
   }
 }
 
@@ -581,9 +582,9 @@ difference(){
 /*translate([-45,-17,32.75])
 #cylinder(d=30,h=10, center=true, $fa=0.1, $fs=0.1);*/
 
-translate([43.25,-48.25,26.5])
-Fire_Button();
-translate ([20.6,-48.4,26])
-Up_Down_Button();
+//translate([43.25,-48.25,26.5])
+//Fire_Button();
+//translate ([20.6,-48.4,26])
+//Up_Down_Button();
 //translate([-47,-15,29])
 //C510();
